@@ -1,0 +1,16 @@
+PODS:
+  - KLNavigationController (1.0.0)
+
+DEPENDENCIES:
+  - KLNavigationController (from `../`)
+
+EXTERNAL SOURCES:
+  KLNavigationController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KLNavigationController: ed8a50a14e54a499d3a483c681bb7f394002a6bf
+
+PODFILE CHECKSUM: 37cea763b00af063d8bf209011d5dc5b6a2afdf3
+
+COCOAPODS: 1.8.0.beta.1
