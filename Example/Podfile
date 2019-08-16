@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'KLNavigationController_Example' do
+  pod 'KLNavigationController', :path => '../'
+
+  target 'KLNavigationController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
